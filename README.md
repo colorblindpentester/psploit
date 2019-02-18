@@ -1,6 +1,6 @@
 # psploit
 
-![Logo](http://samlib.ru/img/t/tokmakow_k_d/spisokgakkougurashi/090nakadzimakaede-prototip.png)
+![Logo](https://pp.userapi.com/c631628/v631628342/2758/3s9iiHUgegs.jpg)
 
 
 psploit - bash script for using PRET with a lot of IP addresses in the row.

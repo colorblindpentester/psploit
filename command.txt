@@ -1,0 +1,3 @@
+print /root/psploit/ph.pdf
+display HACKED
+exit

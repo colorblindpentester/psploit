@@ -29,4 +29,4 @@ To change commands in psploit see "commands.txt"
 And if you want to change what you print, change "ph.pdf"
 
 
-![Logo] (https://avatanplus.com/files/resources/mid/59ce584cc0eb615ece08ebf6.png)
+![Logo](https://avatanplus.com/files/resources/mid/59ce584cc0eb615ece08ebf6.png)

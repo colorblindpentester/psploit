@@ -24,5 +24,5 @@ To change commands in psploit see "commands.txt"
 
 And if you want to change what you print, change "ph.pdf"
 
-![Screenshot](http://prnt.sc/mmpy2s)
+!(http://prnt.sc/mmpy2s)
 

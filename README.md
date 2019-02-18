@@ -18,7 +18,7 @@ sudo ./psploit.bash
 
 If you want to look at IP addresses, you can open "printeri.txt"
 
-You can see what you print in "ph.txt"
+You can see what you print in http://prnt.sc/mmqa1l
 
 To change commands in psploit see "commands.txt"
 
